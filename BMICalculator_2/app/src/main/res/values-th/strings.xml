@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="bmi_cal">ค่าดัชนีมวลกาย</string>
+    <string name="input_weight">นํ้าหนักของคุณ (กิโลกรัม)</string>
+    <string name="input_height">ส่วนสูง(เซนติเมตร)</string>
+    <string name="btn_cal">คำนวณ</string>
+    <string name="result">ค่าดัชนีมวลกายของคุณ</string>
+    <string name="bmi_result">00</string>
+    <string name="considered">อยู่ในเกณฑ์</string>
+
+    <string name="severethinness">ผอมมาก</string>
+    <string name="moderatethinness">ผอมเล็กปานกลาง</string>
+    <string name="mildthinness">ผอมเล็กน้อย</string>
+    <string name="normal">ปกติ</string>
+    <string name="overweight">ท้วม</string>
+    <string name="obese1">โรคอ้วนระดับ 1</string>
+    <string name="obese2">โรคอ้วนระดับ 2</string>
+    <string name="obese3">โรคอ้วนระดับ 3</string>
+
+    <string name="kg">ตัวอย่าง 70</string>
+    <string name="hg">ตัวอย่าง 170</string>
+
+    <string name="col_date">วันที่</string>
+    <string name="col_wight">น้ำหนัก</string>
+    <string name="col_bmi">ค่าดัชนีมวลกาย</string>
+    <string name="col_title">อยู่ในเกณฑ์</string>
+    <string name="col_id">ไอดี</string>
+
+    <string name="list_history">ประวัติค่าดัชนีมวลกาย</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="bmi_cal">BMI Calculator</string>
+    <string name="input_weight">Your Weight in (Kg)</string>
+    <string name="input_height">Your Height in (Cm)</string>
+    <string name="btn_cal">Calculate</string>
+    <string name="result">Your Result</string>
+    <string name="bmi_result">00</string>
+    <string name="considered">Considered</string>
+
+    <string name="severethinness">Severe Thinness</string>
+    <string name="moderatethinness">Moderate Thinness</string>
+    <string name="mildthinness">Mild Thinness</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese1">Obese Class I</string>
+    <string name="obese2">Obese Class II</string>
+    <string name="obese3">Obese Class II</string>
+
+    <string name="kg">e.g. 70</string>
+    <string name="hg">e.g. 170</string>
+
+    <string name="col_date">Date</string>
+    <string name="col_wight">Wight</string>
+    <string name="col_bmi">BMI</string>
+    <string name="col_title">Title</string>
+    <string name="col_id">id</string>
+
+    <string name="list_history">BMI History</string>
+</resources>
